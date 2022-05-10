@@ -1,5 +1,5 @@
 ﻿<div width="720" >
-  <h1 align="left">Experimeto prático com Web APIs e Python</h1>
+  <h1 align="left">Experimeto prático com Web APIs e Python - Cotação de Criptomoedas e Moedas internacionais</h1>
   <h2 align="left">Consulta de informações de API pública Awsome API </h2>
   <p>
   Neste experimento prático, utlizo Python e a biblioteca requests para ler informações de uma API pública.<br>
